@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(154, 125, 88);
+}
+.all-content{
+    width: 50%;
+    margin-left: 23%;
+    margin-top:8%;
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 500px;
+    border: solid 5px rgb(58, 22, 69 );
+    border-radius: 10px;
+}
+h1{
+    font-size: 40px;
+    color: rgb(58, 22, 69);
+}
+p{
+    font-size: 20px;
+    color: rgb(58, 22, 69);
+}
+button{
+    background-color:rgb(58, 22, 69 ) ;
+    color: rgb(214, 186, 148) ;
+    border: solid 5px rgb(58, 22, 69 );
+    border: none;
+    border-radius: 10px;
+    transition: 0.15s;
+    margin-top: 15px;
+    padding:20px 30px ;
+}
+button:hover{
+    background-color:rgb(91, 42, 107) ;
+    color: rgb(123, 107, 85) ;
+}
